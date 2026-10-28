@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/arte_animado_bvx_lab.gif" alt="BVX LAB Arte Animado Oficial" width="220" />
+<img src="assets/arte_animado_bvx_lab.gif" alt="BVX LAB Arte Animado Oficial" width="100%" />
 
 # BVX LAB
 ### *Create. Develop. Grow. // Software Architecture & AI Engineering*
@@ -10,7 +10,7 @@
 
 <br/>
 
-![BVX LAB Motion Banner](assets/bvx_banner.gif)
+<img src="assets/bvx_banner.gif" alt="BVX LAB Motion Banner" width="100%" />
 
 </div>
 
