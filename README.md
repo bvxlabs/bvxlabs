@@ -70,8 +70,8 @@ Los proyectos se presentan ordenados por relevancia e impacto en producción:
 | **02** | **S1 Control Pro // Google Play Store** | Seguridad Corporativa, Móvil & Computer Vision | `8 semanas` | Flutter Native Mobile, Google Play Verified Production, Gemini Vision AI / OpenCV | [Google Play Store](https://play.google.com/store/apps/details?id=com.smartsolutions.s1pro) | [Ver Caso Completo ➔](projects/10-s1-control-pro.md) |
 | **03** | **Caribe Glass Windows Solution** | Solución Empresarial B2B / B2C & Arquitectura | `2 semanas` | React 19, TypeScript, Tailwind CSS v4 | [caribeglass.com](https://caribeglass.com/) | [Ver Caso Completo ➔](projects/02-caribeglass.md) |
 | **04** | **Washington Martínez Constructora** | Real Estate & Construcción de Lujo | `3 semanas` | React 19, TypeScript, Tailwind CSS | [constructorawashington.com](http://constructorawashington.com) | [Ver Caso Completo ➔](projects/11-washington-martinez.md) |
-| **05** | **AIOS Kernel // NVIDIA NIM & Supabase** | Inteligencia Artificial & Sistemas Autónomos | `5 semanas` | Python, NVIDIA NIM LLM APIs, Supabase Cloud / PostgreSQL | [Repositorio GitHub Oficial](https://github.com/Wwb-Daniel/aios-agent-portfolio) | [Ver Caso Completo ➔](projects/09-aios-agent-portfolio.md) |
-| **06** | **Touring One SRL // Turismo VIP** | Turismo, Hotelería & Reservas | `4 semanas` | React, TypeScript, Tailwind CSS | *Privado* | [Ver Caso Completo ➔](projects/12-touring-one.md) |
+| **05** | **Touring One SRL // Turismo VIP** | Turismo, Hotelería & Reservas | `4 semanas` | React, TypeScript, Tailwind CSS | *Privado* | [Ver Caso Completo ➔](projects/12-touring-one.md) |
+| **06** | **AIOS Kernel // NVIDIA NIM & Supabase** | Inteligencia Artificial & Sistemas Autónomos | `5 semanas` | Python, NVIDIA NIM LLM APIs, Supabase Cloud / PostgreSQL | [Repositorio GitHub Oficial](https://github.com/Wwb-Daniel/aios-agent-portfolio) | [Ver Caso Completo ➔](projects/09-aios-agent-portfolio.md) |
 | **07** | **Freska POS & Restaurant Orders** | E-Commerce & GastroTech POS | `3 semanas` | React, TypeScript, Tailwind CSS | *Privado* | [Ver Caso Completo ➔](projects/07-orderly-eats-freska.md) |
 | **08** | **EDHEX Graduaciones** | Fintech & Gestión Académica | `3 semanas` | React, Node.js / Express, QR Cryptography Engine | *Privado* | [Ver Caso Completo ➔](projects/04-edhex.md) |
 | **09** | **OmniPlay Video Social** | Red Social & Video Streaming | `4 semanas` | React, TypeScript, Node.js | *Privado* | [Ver Caso Completo ➔](projects/03-omniplay.md) |
@@ -140,7 +140,20 @@ Los proyectos se presentan ordenados por relevancia e impacto en producción:
 
 ---
 
-### 05. AIOS - Autonomous Agent Kernel & Multi-Agent Execution Matrix
+### 05. Touring One SRL - Portal Turístico, Hoteles & Reservas VIP
+
+> **Distintivo:** `TURISMO & RESERVAS VIP RD`
+
+![Touring One SRL // Turismo VIP](assets/projects/12-Touring-One-Srl/01-Hero-Principal.png)
+
+- ⏱️ **Tiempo de Desarrollo:** `4 semanas`
+- 🏷️ **Categoría:** Turismo, Hotelería & Reservas
+- 🛠️ **Stack Tecnológico:** React · TypeScript · Tailwind CSS · Supabase Database · WhatsApp Booking Gateway · Dashboard Administrativo Multi-Módulo
+- 📄 **Ficha Técnica y Diagramas:** [Leer documentación completa en projects/12-touring-one.md](projects/12-touring-one.md)
+
+---
+
+### 06. AIOS - Autonomous Agent Kernel & Multi-Agent Execution Matrix
 
 > **Distintivo:** `AIOS KERNEL V1 // NVIDIA NIM AI`
 
@@ -151,19 +164,6 @@ Los proyectos se presentan ordenados por relevancia e impacto en producción:
 - 🌐 **Enlace Oficial en Producción:** [https://github.com/Wwb-Daniel/aios-agent-portfolio](https://github.com/Wwb-Daniel/aios-agent-portfolio)
 - 🛠️ **Stack Tecnológico:** Python · NVIDIA NIM LLM APIs · Supabase Cloud / PostgreSQL · WebSockets Stream · GitHub DevOps API · Docker
 - 📄 **Ficha Técnica y Diagramas:** [Leer documentación completa en projects/09-aios-agent-portfolio.md](projects/09-aios-agent-portfolio.md)
-
----
-
-### 06. Touring One SRL - Portal Turístico, Hoteles & Reservas VIP
-
-> **Distintivo:** `TURISMO & RESERVAS VIP RD`
-
-![Touring One SRL // Turismo VIP](assets/projects/12-Touring-One-Srl/01-Hero-Principal.png)
-
-- ⏱️ **Tiempo de Desarrollo:** `4 semanas`
-- 🏷️ **Categoría:** Turismo, Hotelería & Reservas
-- 🛠️ **Stack Tecnológico:** React · TypeScript · Tailwind CSS · Supabase Database · WhatsApp Booking Gateway · Dashboard Administrativo Multi-Módulo
-- 📄 **Ficha Técnica y Diagramas:** [Leer documentación completa en projects/12-touring-one.md](projects/12-touring-one.md)
 
 ---
 
