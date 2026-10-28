@@ -13,7 +13,7 @@
 **🌐 [cinemadb.club](https://cinemadb.club)**
 
 [![Sitio Oficial](https://img.shields.io/badge/Web_Oficial-cinemadb.club-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cinemadb.club)
-[![Instagram](https://img.shields.io/badge/Instagram-@bvxlaps-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bvxlaps/)
+[![Facebook](https://img.shields.io/badge/Facebook-Bvxlab-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Bvxlab/61595392246829/) [![Instagram](https://img.shields.io/badge/Instagram-@bvxlaps-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bvxlaps/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+1_(849)_261--6367-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18492616367)
 
 <br/><br/>
