@@ -7,7 +7,7 @@
 ### 🏢 Proyecto Desarrollado por **BVX LAB**
 *Create. Develop. Grow. // Punta Cana, República Dominicana*
 
-[![Facebook](https://img.shields.io/badge/Facebook-Bvxlab-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Bvxlab/61595392246829/) [![Instagram](https://img.shields.io/badge/Instagram-@bvxlaps-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bvxlaps/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-+1_(849)_261--6367-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18492616367) [![Email](https://img.shields.io/badge/Email-bvxlaps@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvxlaps@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Bvxlab-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Bvxlab/61595392246829/) [![Instagram](https://img.shields.io/badge/Instagram-@bvxlaps-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bvxlaps/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-+1_(829)_654--8277-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18296548277) [![Email](https://img.shields.io/badge/Email-bvxlaps@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvxlaps@gmail.com)
 
 </div>
 
@@ -22,11 +22,11 @@
 | **Tiempo de Desarrollo** | ⏱️ **3 semanas** |
 | **Enlace / URL Oficial** | 🌐 [constructorawashington.com](http://constructorawashington.com) |
 | **Empresa Desarrolladora** | [BVX LAB](https://github.com/bvxlabs) |
-| **Contacto Directo** | WhatsApp: [+1 (849) 261-6367](https://wa.me/18492616367) |
+| **Contacto Directo** | WhatsApp: [+1 (829) 654-8277](https://wa.me/18296548277) · Tel: [+1 (849) 261-6367](tel:18492616367) |
 
 ### 🌐 Enlaces y Canales Oficiales
 - **Instagram BVX:** [https://www.instagram.com/bvxlaps/](https://www.instagram.com/bvxlaps/)
-- **WhatsApp Empresa:** [https://wa.me/18492616367](https://wa.me/18492616367)
+- **WhatsApp Empresa:** [https://wa.me/18296548277](https://wa.me/18296548277)
 - **LinkedIn:** [https://www.linkedin.com/in/victor-dev-291a843a0/](https://www.linkedin.com/in/victor-dev-291a843a0/)
 - **Acceso en Vivo:** [http://constructorawashington.com](http://constructorawashington.com)
 
@@ -96,7 +96,7 @@ graph TD
 <div align="center">
 
 **¿Deseas implementar una solución similar para tu empresa?**  
-[Contáctanos directamente vía WhatsApp](https://wa.me/18492616367?text=Hola%20BVX%20LAB,%20me%20interesa%20un%20proyecto%20como%20Washington%20Mart%C3%ADnez%20Constructora)  
+[Contáctanos directamente vía WhatsApp](https://wa.me/18296548277?text=Hola%20BVX%20LAB,%20me%20interesa%20un%20proyecto%20como%20Washington%20Mart%C3%ADnez%20Constructora)  
 
 **BVX LAB** · *High-Performance Software, AI & Engineering*
 

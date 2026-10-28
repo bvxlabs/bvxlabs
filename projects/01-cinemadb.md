@@ -14,7 +14,7 @@
 
 [![Sitio Oficial](https://img.shields.io/badge/Web_Oficial-cinemadb.club-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cinemadb.club)
 [![Facebook](https://img.shields.io/badge/Facebook-Bvxlab-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Bvxlab/61595392246829/) [![Instagram](https://img.shields.io/badge/Instagram-@bvxlaps-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bvxlaps/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+1_(849)_261--6367-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18492616367)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+1_(829)_654--8277-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18296548277)
 
 <br/><br/>
 
@@ -165,6 +165,6 @@ flowchart TD
 <img src="../assets/bvx_waves.png" alt="BVX LAB" width="120" />
 
 **BVX LAB** · *Create. Develop. Grow.*  
-Punta Cana, República Dominicana · WhatsApp: [+1 (849) 261-6367](https://wa.me/18492616367)
+Punta Cana, República Dominicana · WhatsApp: [+1 (829) 654-8277](https://wa.me/18296548277) · Tel: [+1 (849) 261-6367](tel:18492616367)
 
 </div>

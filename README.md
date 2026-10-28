@@ -6,7 +6,7 @@
 ### *Create. Develop. Grow. // Software Architecture & AI Engineering*
 **Punta Cana, República Dominicana · Operaciones Globales**
 
-[![Facebook](https://img.shields.io/badge/Facebook-Bvxlab-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Bvxlab/61595392246829/) [![Instagram](https://img.shields.io/badge/Instagram-@bvxlaps-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bvxlaps/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-+1_(849)_261--6367-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18492616367) [![Email](https://img.shields.io/badge/Email-bvxlaps@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvxlaps@gmail.com) [![GitHub Repos](https://img.shields.io/badge/GitHub-Wwb--Daniel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wwb-Daniel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Víctor_de_Jesús-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-dev-291a843a0/)
+[![Facebook](https://img.shields.io/badge/Facebook-Bvxlab-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Bvxlab/61595392246829/) [![Instagram](https://img.shields.io/badge/Instagram-@bvxlaps-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bvxlaps/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-+1_(829)_654--8277-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18296548277) [![Email](https://img.shields.io/badge/Email-bvxlaps@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvxlaps@gmail.com) [![GitHub Repos](https://img.shields.io/badge/GitHub-Wwb--Daniel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wwb-Daniel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Víctor_de_Jesús-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-dev-291a843a0/)
 
 <br/>
 
@@ -278,9 +278,11 @@ Los proyectos se presentan ordenados por relevancia e impacto en producción:
 
 ### ¿Tienes una idea o proyecto de software que quieres llevar a producción?
 
-[![Contactar por WhatsApp](https://img.shields.io/badge/Contactar_por_WhatsApp-+1_(849)_261--6367-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18492616367?text=Hola%20BVX%20LAB,%20quiero%20cotizar%20un%20proyecto)  
+[![Contactar por WhatsApp](https://img.shields.io/badge/Contactar_por_WhatsApp-+1_(829)_654--8277-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18296548277?text=Hola%20BVX%20LAB,%20quiero%20cotizar%20un%20proyecto)  
 
 **Ubicación:** Punta Cana, La Altagracia · República Dominicana  
+**WhatsApp Oficial:** [+1 (829) 654-8277](https://wa.me/18296548277)  
+**Teléfono Directo:** [+1 (849) 261-6367](tel:18492616367)  
 **Email Oficial:** [bvxlaps@gmail.com](mailto:bvxlaps@gmail.com)  
 **Instagram Oficial:** [@bvxlaps](https://www.instagram.com/bvxlaps/)  
 **Facebook Oficial:** [facebook.com/Bvxlab](https://www.facebook.com/people/Bvxlab/61595392246829/)  
