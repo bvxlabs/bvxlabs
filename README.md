@@ -66,7 +66,7 @@ Los proyectos se presentan ordenados por relevancia e impacto en producción:
 
 | # | Proyecto Destacado | Categoría | Tiempo de Desarrollo | Stack Principal | URL / Enlace | Documentación |
 | :-: | :--- | :--- | :-: | :--- | :--- | :-: |
-| **01** | **CinemaDB / CineMás TV** | Streaming & Multiplataforma (TV, PC, Móvil, Web) | `6 semanas` | Flutter Native, Smart TV D-Pad Engine, Windows .exe (Desktop) | [cinemadb.club](https://cinemadb.club) | [Ver Caso Completo ➔](projects/01-cinemadb.md) |
+| **01** | **CinemaDB / CineMás TV** | Streaming & Multiplataforma (TV, PC, Móvil, Web) | `~1 Año (Ecosistema)` | Flutter Native, Smart TV D-Pad Engine, Windows .exe (Desktop) | [cinemadb.club](https://cinemadb.club) | [Ver Caso Completo ➔](projects/01-cinemadb.md) |
 | **02** | **S1 Control Pro // Google Play Store** | Seguridad Corporativa, Móvil & Computer Vision | `8 semanas` | Flutter Native Mobile, Google Play Verified Production, Gemini Vision AI / OpenCV | [Google Play Store](https://play.google.com/store/apps/details?id=com.smartsolutions.s1pro) | [Ver Caso Completo ➔](projects/10-s1-control-pro.md) |
 | **03** | **Caribe Glass Windows Solution** | Solución Empresarial B2B / B2C & Arquitectura | `2 semanas` | React 19, TypeScript, Tailwind CSS v4 | [caribeglass.com](https://caribeglass.com/) | [Ver Caso Completo ➔](projects/02-caribeglass.md) |
 | **04** | **Washington Martínez Constructora** | Real Estate & Construcción de Lujo | `3 semanas` | React 19, TypeScript, Tailwind CSS | [constructorawashington.com](http://constructorawashington.com) | [Ver Caso Completo ➔](projects/11-washington-martinez.md) |
@@ -90,7 +90,7 @@ Los proyectos se presentan ordenados por relevancia e impacto en producción:
 
 ![CinemaDB / CineMás TV](assets/projects/01-CinemaDB-Ecosistema-Completo/cinemadb_hero_latest.jpeg)
 
-- ⏱️ **Tiempo de Desarrollo:** `6 semanas`
+- ⏱️ **Tiempo de Desarrollo:** `Casi 1 año (Ecosistema Multiplataforma Completo: Smart TV D-Pad, Windows .exe, Android APK, Web PWA)`
 - 🏷️ **Categoría:** Streaming & Multiplataforma (TV, PC, Móvil, Web)
 - 🌐 **Enlace Oficial en Producción:** [https://cinemadb.club](https://cinemadb.club)
 - 🛠️ **Stack Tecnológico:** Flutter Native · Smart TV D-Pad Engine · Windows .exe (Desktop) · Android APK Nativo · PostgreSQL / Supabase Realtime · HLS 4K Video Player · Node.js / Express · REST API

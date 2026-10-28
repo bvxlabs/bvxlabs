@@ -30,7 +30,7 @@
 | :--- | :--- |
 | **Proyecto** | **CinemaDB / CineMás TV** |
 | **Categoría** | Software, Streaming de Video & Ecosistema Multiplataforma |
-| **Tiempo de Desarrollo** | ⏱️ **6 semanas** |
+| **Tiempo de Desarrollo** | ⏱️ **Casi 1 año (~12 meses de ingeniería integral multiplataforma)** |
 | **URL Oficial en Producción** | 🌐 [https://cinemadb.club](https://cinemadb.club) |
 | **Plataformas Soportadas** | Smart TV (Android TV/FireStick con control D-Pad), Windows (.exe x64), Android (APK Nativo), Web PWA |
 | **Empresa Desarrolladora** | **BVX LAB** · Punta Cana, República Dominicana |
