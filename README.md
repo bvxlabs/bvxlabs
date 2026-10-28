@@ -71,14 +71,14 @@ Los proyectos se presentan ordenados por relevancia e impacto en producción:
 | **03** | **Caribe Glass Windows Solution** | Solución Empresarial B2B / B2C & Arquitectura | `2 semanas` | React 19, TypeScript, Tailwind CSS v4 | [caribeglass.com](https://caribeglass.com/) | [Ver Caso Completo ➔](projects/02-caribeglass.md) |
 | **04** | **Washington Martínez Constructora** | Real Estate & Construcción de Lujo | `3 semanas` | React 19, TypeScript, Tailwind CSS | [constructorawashington.com](http://constructorawashington.com) | [Ver Caso Completo ➔](projects/11-washington-martinez.md) |
 | **05** | **Touring One SRL // Turismo VIP** | Turismo, Hotelería & Reservas | `4 semanas` | React, TypeScript, Tailwind CSS | *Privado* | [Ver Caso Completo ➔](projects/12-touring-one.md) |
-| **06** | **AIOS Kernel // NVIDIA NIM & Supabase** | Inteligencia Artificial & Sistemas Autónomos | `5 semanas` | Python, NVIDIA NIM LLM APIs, Supabase Cloud / PostgreSQL | [Repositorio GitHub Oficial](https://github.com/Wwb-Daniel/aios-agent-portfolio) | [Ver Caso Completo ➔](projects/09-aios-agent-portfolio.md) |
-| **07** | **Freska POS & Restaurant Orders** | E-Commerce & GastroTech POS | `3 semanas` | React, TypeScript, Tailwind CSS | *Privado* | [Ver Caso Completo ➔](projects/07-orderly-eats-freska.md) |
-| **08** | **EDHEX Graduaciones** | Fintech & Gestión Académica | `3 semanas` | React, Node.js / Express, QR Cryptography Engine | *Privado* | [Ver Caso Completo ➔](projects/04-edhex.md) |
-| **09** | **OmniPlay Video Social** | Red Social & Video Streaming | `4 semanas` | React, TypeScript, Node.js | *Privado* | [Ver Caso Completo ➔](projects/03-omniplay.md) |
-| **10** | **YouTube Frontend Core** | Arquitectura Web Multimedia | `2 semanas` | React, TypeScript, YouTube Data API v3 | *Privado* | [Ver Caso Completo ➔](projects/05-youtube-clone.md) |
-| **11** | **Spotify Core Audio Player** | Streaming de Audio & Multimedia | `2 semanas` | React, TypeScript, Web Audio API | *Privado* | [Ver Caso Completo ➔](projects/13-spotify-clone.md) |
-| **12** | **Bacano Roleplay FiveM Hub** | Gaming & Comunidad Virtual | `2 semanas` | React, Node.js, Discord OAuth2 API | *Privado* | [Ver Caso Completo ➔](projects/06-bacano-roleplay.md) |
-| **13** | **Look Store E-Commerce** | E-Commerce & Retail de Moda | `2 semanas` | Next.js / React, Tailwind CSS, Supabase Database | *Privado* | [Ver Caso Completo ➔](projects/08-look-store.md) |
+| **06** | **EDHEX Graduaciones** | Fintech & Gestión Académica | `3 semanas` | React, Node.js / Express, QR Cryptography Engine | *Privado* | [Ver Caso Completo ➔](projects/04-edhex.md) |
+| **07** | **OmniPlay Video Social** | Red Social & Video Streaming | `4 semanas` | React, TypeScript, Node.js | *Privado* | [Ver Caso Completo ➔](projects/03-omniplay.md) |
+| **08** | **Look Store E-Commerce** | E-Commerce & Retail de Moda | `2 semanas` | Next.js / React, Tailwind CSS, Supabase Database | *Privado* | [Ver Caso Completo ➔](projects/08-look-store.md) |
+| **09** | **Bacano Roleplay FiveM Hub** | Gaming & Comunidad Virtual | `2 semanas` | React, Node.js, Discord OAuth2 API | *Privado* | [Ver Caso Completo ➔](projects/06-bacano-roleplay.md) |
+| **10** | **AIOS Kernel // NVIDIA NIM & Supabase** | Inteligencia Artificial & Sistemas Autónomos | `5 semanas` | Python, NVIDIA NIM LLM APIs, Supabase Cloud / PostgreSQL | [Repositorio GitHub Oficial](https://github.com/Wwb-Daniel/aios-agent-portfolio) | [Ver Caso Completo ➔](projects/09-aios-agent-portfolio.md) |
+| **11** | **Freska POS & Restaurant Orders** | E-Commerce & GastroTech POS | `3 semanas` | React, TypeScript, Tailwind CSS | *Privado* | [Ver Caso Completo ➔](projects/07-orderly-eats-freska.md) |
+| **12** | **Spotify Core Audio Player** | Streaming de Audio & Multimedia | `2 semanas` | React, TypeScript, Web Audio API | *Privado* | [Ver Caso Completo ➔](projects/13-spotify-clone.md) |
+| **13** | **YouTube Frontend Core** | Arquitectura Web Multimedia | `2 semanas` | React, TypeScript, YouTube Data API v3 | *Privado* | [Ver Caso Completo ➔](projects/05-youtube-clone.md) |
 
 ---
 
@@ -153,7 +153,59 @@ Los proyectos se presentan ordenados por relevancia e impacto en producción:
 
 ---
 
-### 06. AIOS - Autonomous Agent Kernel & Multi-Agent Execution Matrix
+### 06. EDHEX - Sistema de Gestión de Graduación & Entradas Digitales QR
+
+> **Distintivo:** `VALIDACIÓN QR CRIPTOGRÁFICA`
+
+![EDHEX Graduaciones](assets/projects/04-EDHEX-Sistema-Graduacion/01_edhex_entradas_digitales.png)
+
+- ⏱️ **Tiempo de Desarrollo:** `3 semanas`
+- 🏷️ **Categoría:** Fintech & Gestión Académica
+- 🛠️ **Stack Tecnológico:** React · Node.js / Express · QR Cryptography Engine · Tailwind CSS · PostgreSQL · Supabase Auth
+- 📄 **Ficha Técnica y Diagramas:** [Leer documentación completa en projects/04-edhex.md](projects/04-edhex.md)
+
+---
+
+### 07. OmniPlay - Plataforma de Video Streaming & Red Social Multimedia
+
+> **Distintivo:** `STREAMING SOCIAL MULTIMEDIA`
+
+![OmniPlay Video Social](assets/projects/03-OmniPlay-Video-Social/01_onmiplay_feed.png)
+
+- ⏱️ **Tiempo de Desarrollo:** `4 semanas`
+- 🏷️ **Categoría:** Red Social & Video Streaming
+- 🛠️ **Stack Tecnológico:** React · TypeScript · Node.js · Socket.io Realtime · Tailwind CSS · PostgreSQL · FFmpeg Transcoding
+- 📄 **Ficha Técnica y Diagramas:** [Leer documentación completa en projects/03-omniplay.md](projects/03-omniplay.md)
+
+---
+
+### 08. Look Store - Tienda de Moda B2C & Catálogo Textil Digital
+
+> **Distintivo:** `RETAIL COMMERCE B2C`
+
+![Look Store E-Commerce](assets/projects/08-Look-Store/01_look_store_home.png)
+
+- ⏱️ **Tiempo de Desarrollo:** `2 semanas`
+- 🏷️ **Categoría:** E-Commerce & Retail de Moda
+- 🛠️ **Stack Tecnológico:** Next.js / React · Tailwind CSS · Supabase Database · Stripe / WhatsApp Checkout
+- 📄 **Ficha Técnica y Diagramas:** [Leer documentación completa en projects/08-look-store.md](projects/08-look-store.md)
+
+---
+
+### 09. Bacano Roleplay - Portal Comunitario, Sincronización FiveM & OAuth2
+
+> **Distintivo:** `FIVEM API & DISCORD OAUTH2`
+
+![Bacano Roleplay FiveM Hub](assets/projects/06-Bacano-Roleplay/01_bacano_rp_servidor.png)
+
+- ⏱️ **Tiempo de Desarrollo:** `2 semanas`
+- 🏷️ **Categoría:** Gaming & Comunidad Virtual
+- 🛠️ **Stack Tecnológico:** React · Node.js · Discord OAuth2 API · FiveM Server JSON API · Tailwind CSS · Vite
+- 📄 **Ficha Técnica y Diagramas:** [Leer documentación completa en projects/06-bacano-roleplay.md](projects/06-bacano-roleplay.md)
+
+---
+
+### 10. AIOS - Autonomous Agent Kernel & Multi-Agent Execution Matrix
 
 > **Distintivo:** `AIOS KERNEL V1 // NVIDIA NIM AI`
 
@@ -167,7 +219,7 @@ Los proyectos se presentan ordenados por relevancia e impacto en producción:
 
 ---
 
-### 07. Freska / Orderly Eats - Punto de Venta (POS) & Pedidos para Restaurantes
+### 11. Freska / Orderly Eats - Punto de Venta (POS) & Pedidos para Restaurantes
 
 > **Distintivo:** `GASTROTECH & POS EN TIEMPO REAL`
 
@@ -180,46 +232,7 @@ Los proyectos se presentan ordenados por relevancia e impacto en producción:
 
 ---
 
-### 08. EDHEX - Sistema de Gestión de Graduación & Entradas Digitales QR
-
-> **Distintivo:** `VALIDACIÓN QR CRIPTOGRÁFICA`
-
-![EDHEX Graduaciones](assets/projects/04-EDHEX-Sistema-Graduacion/01_edhex_entradas_digitales.png)
-
-- ⏱️ **Tiempo de Desarrollo:** `3 semanas`
-- 🏷️ **Categoría:** Fintech & Gestión Académica
-- 🛠️ **Stack Tecnológico:** React · Node.js / Express · QR Cryptography Engine · Tailwind CSS · PostgreSQL · Supabase Auth
-- 📄 **Ficha Técnica y Diagramas:** [Leer documentación completa en projects/04-edhex.md](projects/04-edhex.md)
-
----
-
-### 09. OmniPlay - Plataforma de Video Streaming & Red Social Multimedia
-
-> **Distintivo:** `STREAMING SOCIAL MULTIMEDIA`
-
-![OmniPlay Video Social](assets/projects/03-OmniPlay-Video-Social/01_onmiplay_feed.png)
-
-- ⏱️ **Tiempo de Desarrollo:** `4 semanas`
-- 🏷️ **Categoría:** Red Social & Video Streaming
-- 🛠️ **Stack Tecnológico:** React · TypeScript · Node.js · Socket.io Realtime · Tailwind CSS · PostgreSQL · FFmpeg Transcoding
-- 📄 **Ficha Técnica y Diagramas:** [Leer documentación completa en projects/03-omniplay.md](projects/03-omniplay.md)
-
----
-
-### 10. YouTube Core Platform Clone - Arquitectura Frontend de Alto Rendimiento
-
-> **Distintivo:** `HIGH-PERFORMANCE FRONTEND`
-
-![YouTube Frontend Core](assets/projects/05-YouTube-Clone/01_youtube_dark_home.png)
-
-- ⏱️ **Tiempo de Desarrollo:** `2 semanas`
-- 🏷️ **Categoría:** Arquitectura Web Multimedia
-- 🛠️ **Stack Tecnológico:** React · TypeScript · YouTube Data API v3 · Tailwind CSS · Axios · Lucide React
-- 📄 **Ficha Técnica y Diagramas:** [Leer documentación completa en projects/05-youtube-clone.md](projects/05-youtube-clone.md)
-
----
-
-### 11. Spotify Core Platform Clone - Motor de Audio & Streaming Interactivo
+### 12. Spotify Core Platform Clone - Motor de Audio & Streaming Interactivo
 
 > **Distintivo:** `WEB AUDIO API ENGINE`
 
@@ -232,29 +245,16 @@ Los proyectos se presentan ordenados por relevancia e impacto en producción:
 
 ---
 
-### 12. Bacano Roleplay - Portal Comunitario, Sincronización FiveM & OAuth2
+### 13. YouTube Core Platform Clone - Arquitectura Frontend de Alto Rendimiento
 
-> **Distintivo:** `FIVEM API & DISCORD OAUTH2`
+> **Distintivo:** `HIGH-PERFORMANCE FRONTEND`
 
-![Bacano Roleplay FiveM Hub](assets/projects/06-Bacano-Roleplay/01_bacano_rp_servidor.png)
-
-- ⏱️ **Tiempo de Desarrollo:** `2 semanas`
-- 🏷️ **Categoría:** Gaming & Comunidad Virtual
-- 🛠️ **Stack Tecnológico:** React · Node.js · Discord OAuth2 API · FiveM Server JSON API · Tailwind CSS · Vite
-- 📄 **Ficha Técnica y Diagramas:** [Leer documentación completa en projects/06-bacano-roleplay.md](projects/06-bacano-roleplay.md)
-
----
-
-### 13. Look Store - Tienda de Moda B2C & Catálogo Textil Digital
-
-> **Distintivo:** `RETAIL COMMERCE B2C`
-
-![Look Store E-Commerce](assets/projects/08-Look-Store/01_look_store_home.png)
+![YouTube Frontend Core](assets/projects/05-YouTube-Clone/01_youtube_dark_home.png)
 
 - ⏱️ **Tiempo de Desarrollo:** `2 semanas`
-- 🏷️ **Categoría:** E-Commerce & Retail de Moda
-- 🛠️ **Stack Tecnológico:** Next.js / React · Tailwind CSS · Supabase Database · Stripe / WhatsApp Checkout
-- 📄 **Ficha Técnica y Diagramas:** [Leer documentación completa en projects/08-look-store.md](projects/08-look-store.md)
+- 🏷️ **Categoría:** Arquitectura Web Multimedia
+- 🛠️ **Stack Tecnológico:** React · TypeScript · YouTube Data API v3 · Tailwind CSS · Axios · Lucide React
+- 📄 **Ficha Técnica y Diagramas:** [Leer documentación completa en projects/05-youtube-clone.md](projects/05-youtube-clone.md)
 
 ---
 
