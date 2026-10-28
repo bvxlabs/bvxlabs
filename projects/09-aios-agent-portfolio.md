@@ -27,7 +27,6 @@
 ### 🌐 Enlaces y Canales Oficiales
 - **GitHub Arquitecto:** [https://github.com/Wwb-Daniel](https://github.com/Wwb-Daniel)
 - **Instagram BVX:** [https://www.instagram.com/bvxlaps/](https://www.instagram.com/bvxlaps/)
-- **LinkedIn:** [https://www.linkedin.com/in/victor-dev-291a843a0/](https://www.linkedin.com/in/victor-dev-291a843a0/)
 - **Acceso en Vivo:** [https://github.com/Wwb-Daniel/aios-agent-portfolio](https://github.com/Wwb-Daniel/aios-agent-portfolio)
 
 ---

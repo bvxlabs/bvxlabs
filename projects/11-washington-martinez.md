@@ -27,7 +27,6 @@
 ### 🌐 Enlaces y Canales Oficiales
 - **Instagram BVX:** [https://www.instagram.com/bvxlaps/](https://www.instagram.com/bvxlaps/)
 - **WhatsApp Empresa:** [https://wa.me/18296548277](https://wa.me/18296548277)
-- **LinkedIn:** [https://www.linkedin.com/in/victor-dev-291a843a0/](https://www.linkedin.com/in/victor-dev-291a843a0/)
 - **Acceso en Vivo:** [http://constructorawashington.com](http://constructorawashington.com)
 
 ---

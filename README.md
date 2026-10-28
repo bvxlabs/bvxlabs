@@ -6,7 +6,7 @@
 ### *Create. Develop. Grow. // Software Architecture & AI Engineering*
 **Punta Cana, República Dominicana · Operaciones Globales**
 
-[![Facebook](https://img.shields.io/badge/Facebook-Bvxlab-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Bvxlab/61595392246829/) [![Instagram](https://img.shields.io/badge/Instagram-@bvxlaps-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bvxlaps/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-+1_(829)_654--8277-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18296548277) [![Email](https://img.shields.io/badge/Email-bvxlaps@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvxlaps@gmail.com) [![GitHub Repos](https://img.shields.io/badge/GitHub-Wwb--Daniel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wwb-Daniel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Víctor_de_Jesús-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-dev-291a843a0/)
+[![Facebook](https://img.shields.io/badge/Facebook-Bvxlab-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Bvxlab/61595392246829/) [![Instagram](https://img.shields.io/badge/Instagram-@bvxlaps-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bvxlaps/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-+1_(829)_654--8277-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18296548277) [![Email](https://img.shields.io/badge/Email-bvxlaps@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvxlaps@gmail.com) [![GitHub Repos](https://img.shields.io/badge/GitHub-Wwb--Daniel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wwb-Daniel)
 
 <br/>
 
@@ -263,7 +263,7 @@ Los proyectos se presentan ordenados por relevancia e impacto en producción:
 ### 👨‍💻 **Víctor de Jesús** (*Líder SK / Wwb-Daniel*)
 - **Rol:** Lead Software Architect & Systems Engineer
 - **Especialidades:** Flutter Native (iOS, Android, Windows, Smart TV), React 19, Supabase Realtime, WebSockets <40ms, Computer Vision AI & Sistemas Multi-Agente.
-- **Contacto:** [GitHub (+46 Repos)](https://github.com/Wwb-Daniel) · [LinkedIn](https://www.linkedin.com/in/victor-dev-291a843a0/) · [TikTok](https://www.tiktok.com/@lisersk) · Email: victordejesus131318@gmail.com
+- **Contacto:** [GitHub (+46 Repos)](https://github.com/Wwb-Daniel) · [TikTok](https://www.tiktok.com/@lisersk) · Email: victordejesus131318@gmail.com
 
 ### 🎨 **Bismel de Jesús**
 - **Rol:** Creative, Branding & Growth Director
