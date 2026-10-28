@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/bvx_waves.png" alt="BVX LAB Official Logo" width="220" />
+<img src="assets/arte_animado_bvx_lab.gif" alt="BVX LAB Arte Animado Oficial" width="220" />
 
 # BVX LAB
 ### *Create. Develop. Grow. // Software Architecture & AI Engineering*
