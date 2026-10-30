@@ -2,10 +2,6 @@
 
 <div align="center">
 
-<img src="../assets/bvx_lab_banner.png" alt="BVX LAB Official Banner" width="100%" />
-
-<br/><br/>
-
 <img src="../assets/projects/01-CinemaDB-Ecosistema-Completo/film-icon.png" alt="CinemaDB Film Icon" width="120" />
 
 # CinemaDB (CineMás TV)
