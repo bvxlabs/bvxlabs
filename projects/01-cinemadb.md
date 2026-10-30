@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="../assets/arte_animado_bvx_lab.gif" alt="BVX LAB Arte Animado Oficial" width="160" />
+<img src="../assets/bvx_lab_banner.png" alt="BVX LAB Official Banner" width="100%" />
 
-<br/>
+<br/><br/>
 
 <img src="../assets/projects/01-CinemaDB-Ecosistema-Completo/film-icon.png" alt="CinemaDB Film Icon" width="120" />
 
@@ -162,7 +162,7 @@ flowchart TD
 
 <div align="center">
 
-<img src="../assets/arte_animado_bvx_lab.gif" alt="BVX LAB Arte Animado Oficial" width="120" />
+<img src="../assets/bvx_waves.png" alt="BVX LAB" width="120" />
 
 **BVX LAB** · *Create. Develop. Grow.*  
 Punta Cana, República Dominicana · WhatsApp: [+1 (829) 654-8277](https://wa.me/18296548277) · Tel: [+1 (849) 261-6367](tel:18492616367)
